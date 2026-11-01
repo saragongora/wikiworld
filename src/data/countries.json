@@ -1,0 +1,4946 @@
+[
+  {
+    "cca3": "AFG",
+    "ccn3": "004",
+    "name": {
+      "common": "Afghanistan"
+    },
+    "translations": {
+      "por": {
+        "common": "Afeganistão"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Asia",
+    "capital": [],
+    "population": 34124811,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇦🇫"
+  },
+  {
+    "cca3": "ALB",
+    "ccn3": "008",
+    "name": {
+      "common": "Albania"
+    },
+    "translations": {
+      "por": {
+        "common": "Albânia"
+      }
+    },
+    "region": "Europe",
+    "subregion": "Europe",
+    "capital": [],
+    "population": 3047987,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Europe"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇦🇱"
+  },
+  {
+    "cca3": "DEU",
+    "ccn3": "276",
+    "name": {
+      "common": "Germany"
+    },
+    "translations": {
+      "por": {
+        "common": "Alemanha"
+      }
+    },
+    "region": "Europe",
+    "subregion": "Europe",
+    "capital": [],
+    "population": 80594017,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Europe"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇩🇪"
+  },
+  {
+    "cca3": "AND",
+    "ccn3": "020",
+    "name": {
+      "common": "Andorra"
+    },
+    "translations": {
+      "por": {
+        "common": "Andorra"
+      }
+    },
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "capital": [],
+    "population": null,
+    "area": null,
+    "flags": {},
+    "continents": [],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇦🇩"
+  },
+  {
+    "cca3": "AGO",
+    "ccn3": "024",
+    "name": {
+      "common": "Angola"
+    },
+    "translations": {
+      "por": {
+        "common": "Angola"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 29310273,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇦🇴"
+  },
+  {
+    "cca3": "ATA",
+    "ccn3": "010",
+    "name": {
+      "common": "Antarctica"
+    },
+    "translations": {
+      "por": {
+        "common": "Antártida"
+      }
+    },
+    "region": "Antarctic",
+    "subregion": "Antarctic",
+    "capital": [],
+    "population": 4050,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Antarctica"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇦🇶"
+  },
+  {
+    "cca3": "ATG",
+    "ccn3": "028",
+    "name": {
+      "common": "Antigua and Barbuda"
+    },
+    "translations": {
+      "por": {
+        "common": "Antígua e Barbuda"
+      }
+    },
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "capital": [],
+    "population": null,
+    "area": null,
+    "flags": {},
+    "continents": [],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇦🇬"
+  },
+  {
+    "cca3": "ARG",
+    "ccn3": "032",
+    "name": {
+      "common": "Argentina"
+    },
+    "translations": {
+      "por": {
+        "common": "Argentina"
+      }
+    },
+    "region": "Americas",
+    "subregion": "South America",
+    "capital": [],
+    "population": 44293293,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "South America"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇦🇷"
+  },
+  {
+    "cca3": "DZA",
+    "ccn3": "012",
+    "name": {
+      "common": "Algeria"
+    },
+    "translations": {
+      "por": {
+        "common": "Argélia"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 40969443,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇩🇿"
+  },
+  {
+    "cca3": "ARM",
+    "ccn3": "051",
+    "name": {
+      "common": "Armenia"
+    },
+    "translations": {
+      "por": {
+        "common": "Armênia"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Asia",
+    "capital": [],
+    "population": 3045191,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇦🇲"
+  },
+  {
+    "cca3": "SAU",
+    "ccn3": "682",
+    "name": {
+      "common": "Saudi Arabia"
+    },
+    "translations": {
+      "por": {
+        "common": "Arábia Saudita"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Asia",
+    "capital": [],
+    "population": 28571770,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇸🇦"
+  },
+  {
+    "cca3": "AUS",
+    "ccn3": "036",
+    "name": {
+      "common": "Australia"
+    },
+    "translations": {
+      "por": {
+        "common": "Austrália"
+      }
+    },
+    "region": "Oceania",
+    "subregion": "Oceania",
+    "capital": [],
+    "population": 23232413,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Oceania"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇦🇺"
+  },
+  {
+    "cca3": "AZE",
+    "ccn3": "031",
+    "name": {
+      "common": "Azerbaijan"
+    },
+    "translations": {
+      "por": {
+        "common": "Azerbaijão"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Asia",
+    "capital": [],
+    "population": 9961396,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇦🇿"
+  },
+  {
+    "cca3": "BHS",
+    "ccn3": "044",
+    "name": {
+      "common": "Bahamas"
+    },
+    "translations": {
+      "por": {
+        "common": "Bahamas"
+      }
+    },
+    "region": "Americas",
+    "subregion": "North America",
+    "capital": [],
+    "population": 329988,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "North America"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇧🇸"
+  },
+  {
+    "cca3": "BGD",
+    "ccn3": "050",
+    "name": {
+      "common": "Bangladesh"
+    },
+    "translations": {
+      "por": {
+        "common": "Bangladesh"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Asia",
+    "capital": [],
+    "population": 157826578,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇧🇩"
+  },
+  {
+    "cca3": "BRB",
+    "ccn3": "052",
+    "name": {
+      "common": "Barbados"
+    },
+    "translations": {
+      "por": {
+        "common": "Barbados"
+      }
+    },
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "capital": [],
+    "population": null,
+    "area": null,
+    "flags": {},
+    "continents": [],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇧🇧"
+  },
+  {
+    "cca3": "BHR",
+    "ccn3": "048",
+    "name": {
+      "common": "Bahrain"
+    },
+    "translations": {
+      "por": {
+        "common": "Barein"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "capital": [],
+    "population": null,
+    "area": null,
+    "flags": {},
+    "continents": [],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇧🇭"
+  },
+  {
+    "cca3": "BLZ",
+    "ccn3": "084",
+    "name": {
+      "common": "Belize"
+    },
+    "translations": {
+      "por": {
+        "common": "Belize"
+      }
+    },
+    "region": "Americas",
+    "subregion": "North America",
+    "capital": [],
+    "population": 360346,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "North America"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇧🇿"
+  },
+  {
+    "cca3": "BEN",
+    "ccn3": "204",
+    "name": {
+      "common": "Benin"
+    },
+    "translations": {
+      "por": {
+        "common": "Benin"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 11038805,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇧🇯"
+  },
+  {
+    "cca3": "BLR",
+    "ccn3": "112",
+    "name": {
+      "common": "Belarus"
+    },
+    "translations": {
+      "por": {
+        "common": "Bielorrússia"
+      }
+    },
+    "region": "Europe",
+    "subregion": "Europe",
+    "capital": [],
+    "population": 9549747,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Europe"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇧🇾"
+  },
+  {
+    "cca3": "BOL",
+    "ccn3": "068",
+    "name": {
+      "common": "Bolivia, Plurinational State of"
+    },
+    "translations": {
+      "por": {
+        "common": "Bolívia"
+      }
+    },
+    "region": "Americas",
+    "subregion": "South America",
+    "capital": [],
+    "population": 11138234,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "South America"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇧🇴"
+  },
+  {
+    "cca3": "BWA",
+    "ccn3": "072",
+    "name": {
+      "common": "Botswana"
+    },
+    "translations": {
+      "por": {
+        "common": "Botsuana"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 2214858,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇧🇼"
+  },
+  {
+    "cca3": "BRA",
+    "ccn3": "076",
+    "name": {
+      "common": "Brazil"
+    },
+    "translations": {
+      "por": {
+        "common": "Brasil"
+      }
+    },
+    "region": "Americas",
+    "subregion": "South America",
+    "capital": [],
+    "population": 207353391,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "South America"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇧🇷"
+  },
+  {
+    "cca3": "BRN",
+    "ccn3": "096",
+    "name": {
+      "common": "Brunei Darussalam"
+    },
+    "translations": {
+      "por": {
+        "common": "Brunei"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Asia",
+    "capital": [],
+    "population": 443593,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇧🇳"
+  },
+  {
+    "cca3": "BGR",
+    "ccn3": "100",
+    "name": {
+      "common": "Bulgaria"
+    },
+    "translations": {
+      "por": {
+        "common": "Bulgária"
+      }
+    },
+    "region": "Europe",
+    "subregion": "Europe",
+    "capital": [],
+    "population": 7101510,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Europe"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇧🇬"
+  },
+  {
+    "cca3": "BFA",
+    "ccn3": "854",
+    "name": {
+      "common": "Burkina Faso"
+    },
+    "translations": {
+      "por": {
+        "common": "Burquina Faso"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 20107509,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇧🇫"
+  },
+  {
+    "cca3": "BDI",
+    "ccn3": "108",
+    "name": {
+      "common": "Burundi"
+    },
+    "translations": {
+      "por": {
+        "common": "Burundi"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 11466756,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇧🇮"
+  },
+  {
+    "cca3": "BTN",
+    "ccn3": "064",
+    "name": {
+      "common": "Bhutan"
+    },
+    "translations": {
+      "por": {
+        "common": "Butão"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Asia",
+    "capital": [],
+    "population": 758288,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇧🇹"
+  },
+  {
+    "cca3": "BEL",
+    "ccn3": "056",
+    "name": {
+      "common": "Belgium"
+    },
+    "translations": {
+      "por": {
+        "common": "Bélgica"
+      }
+    },
+    "region": "Europe",
+    "subregion": "Europe",
+    "capital": [],
+    "population": 11491346,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Europe"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇧🇪"
+  },
+  {
+    "cca3": "BIH",
+    "ccn3": "070",
+    "name": {
+      "common": "Bosnia and Herzegovina"
+    },
+    "translations": {
+      "por": {
+        "common": "Bósnia e Herzegovina"
+      }
+    },
+    "region": "Europe",
+    "subregion": "Europe",
+    "capital": [],
+    "population": 3856181,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Europe"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇧🇦"
+  },
+  {
+    "cca3": "CPV",
+    "ccn3": "132",
+    "name": {
+      "common": "Cabo Verde"
+    },
+    "translations": {
+      "por": {
+        "common": "Cabo Verde"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "capital": [],
+    "population": null,
+    "area": null,
+    "flags": {},
+    "continents": [],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇨🇻"
+  },
+  {
+    "cca3": "CMR",
+    "ccn3": "120",
+    "name": {
+      "common": "Cameroon"
+    },
+    "translations": {
+      "por": {
+        "common": "Camarões"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 24994885,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇨🇲"
+  },
+  {
+    "cca3": "KHM",
+    "ccn3": "116",
+    "name": {
+      "common": "Cambodia"
+    },
+    "translations": {
+      "por": {
+        "common": "Camboja"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Asia",
+    "capital": [],
+    "population": 16204486,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇰🇭"
+  },
+  {
+    "cca3": "CAN",
+    "ccn3": "124",
+    "name": {
+      "common": "Canada"
+    },
+    "translations": {
+      "por": {
+        "common": "Canadá"
+      }
+    },
+    "region": "Americas",
+    "subregion": "North America",
+    "capital": [],
+    "population": 35623680,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "North America"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇨🇦"
+  },
+  {
+    "cca3": "QAT",
+    "ccn3": "634",
+    "name": {
+      "common": "Qatar"
+    },
+    "translations": {
+      "por": {
+        "common": "Catar"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Asia",
+    "capital": [],
+    "population": 2314307,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇶🇦"
+  },
+  {
+    "cca3": "KAZ",
+    "ccn3": "398",
+    "name": {
+      "common": "Kazakhstan"
+    },
+    "translations": {
+      "por": {
+        "common": "Cazaquistão"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Asia",
+    "capital": [],
+    "population": 18556698,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇰🇿"
+  },
+  {
+    "cca3": "TCD",
+    "ccn3": "148",
+    "name": {
+      "common": "Chad"
+    },
+    "translations": {
+      "por": {
+        "common": "Chade"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 12075985,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇹🇩"
+  },
+  {
+    "cca3": "CHL",
+    "ccn3": "152",
+    "name": {
+      "common": "Chile"
+    },
+    "translations": {
+      "por": {
+        "common": "Chile"
+      }
+    },
+    "region": "Americas",
+    "subregion": "South America",
+    "capital": [],
+    "population": 17789267,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "South America"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇨🇱"
+  },
+  {
+    "cca3": "CHN",
+    "ccn3": "156",
+    "name": {
+      "common": "China"
+    },
+    "translations": {
+      "por": {
+        "common": "China"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Asia",
+    "capital": [],
+    "population": 1379302771,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇨🇳"
+  },
+  {
+    "cca3": "CYP",
+    "ccn3": "196",
+    "name": {
+      "common": "Cyprus"
+    },
+    "translations": {
+      "por": {
+        "common": "Chipre"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Asia",
+    "capital": [],
+    "population": 1221549,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇨🇾"
+  },
+  {
+    "cca3": "VAT",
+    "ccn3": "336",
+    "name": {
+      "common": "Holy See (Vatican City State)"
+    },
+    "translations": {
+      "por": {
+        "common": "Cidade do Vaticano"
+      }
+    },
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "capital": [],
+    "population": null,
+    "area": null,
+    "flags": {},
+    "continents": [],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇻🇦"
+  },
+  {
+    "cca3": "COL",
+    "ccn3": "170",
+    "name": {
+      "common": "Colombia"
+    },
+    "translations": {
+      "por": {
+        "common": "Colômbia"
+      }
+    },
+    "region": "Americas",
+    "subregion": "South America",
+    "capital": [],
+    "population": 47698524,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "South America"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇨🇴"
+  },
+  {
+    "cca3": "COM",
+    "ccn3": "174",
+    "name": {
+      "common": "Comoros"
+    },
+    "translations": {
+      "por": {
+        "common": "Comores"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "capital": [],
+    "population": null,
+    "area": null,
+    "flags": {},
+    "continents": [],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇰🇲"
+  },
+  {
+    "cca3": "COD",
+    "ccn3": "180",
+    "name": {
+      "common": "Congo, The Democratic Republic of the"
+    },
+    "translations": {
+      "por": {
+        "common": "Congo - Kinshasa"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 83301151,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇨🇩"
+  },
+  {
+    "cca3": "PRK",
+    "ccn3": "408",
+    "name": {
+      "common": "Korea, Democratic People's Republic of"
+    },
+    "translations": {
+      "por": {
+        "common": "Coreia do Norte"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Asia",
+    "capital": [],
+    "population": 25248140,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇰🇵"
+  },
+  {
+    "cca3": "KOR",
+    "ccn3": "410",
+    "name": {
+      "common": "Korea, Republic of"
+    },
+    "translations": {
+      "por": {
+        "common": "Coreia do Sul"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Asia",
+    "capital": [],
+    "population": 51181299,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇰🇷"
+  },
+  {
+    "cca3": "CRI",
+    "ccn3": "188",
+    "name": {
+      "common": "Costa Rica"
+    },
+    "translations": {
+      "por": {
+        "common": "Costa Rica"
+      }
+    },
+    "region": "Americas",
+    "subregion": "North America",
+    "capital": [],
+    "population": 4930258,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "North America"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇨🇷"
+  },
+  {
+    "cca3": "CIV",
+    "ccn3": "384",
+    "name": {
+      "common": "Côte d'Ivoire"
+    },
+    "translations": {
+      "por": {
+        "common": "Costa do Marfim"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 24184810,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇨🇮"
+  },
+  {
+    "cca3": "HRV",
+    "ccn3": "191",
+    "name": {
+      "common": "Croatia"
+    },
+    "translations": {
+      "por": {
+        "common": "Croácia"
+      }
+    },
+    "region": "Europe",
+    "subregion": "Europe",
+    "capital": [],
+    "population": 4292095,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Europe"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇭🇷"
+  },
+  {
+    "cca3": "CUB",
+    "ccn3": "192",
+    "name": {
+      "common": "Cuba"
+    },
+    "translations": {
+      "por": {
+        "common": "Cuba"
+      }
+    },
+    "region": "Americas",
+    "subregion": "North America",
+    "capital": [],
+    "population": 11147407,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "North America"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇨🇺"
+  },
+  {
+    "cca3": "DNK",
+    "ccn3": "208",
+    "name": {
+      "common": "Denmark"
+    },
+    "translations": {
+      "por": {
+        "common": "Dinamarca"
+      }
+    },
+    "region": "Europe",
+    "subregion": "Europe",
+    "capital": [],
+    "population": 5605948,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Europe"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇩🇰"
+  },
+  {
+    "cca3": "DJI",
+    "ccn3": "262",
+    "name": {
+      "common": "Djibouti"
+    },
+    "translations": {
+      "por": {
+        "common": "Djibuti"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 865267,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇩🇯"
+  },
+  {
+    "cca3": "DMA",
+    "ccn3": "212",
+    "name": {
+      "common": "Dominica"
+    },
+    "translations": {
+      "por": {
+        "common": "Dominica"
+      }
+    },
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "capital": [],
+    "population": null,
+    "area": null,
+    "flags": {},
+    "continents": [],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇩🇲"
+  },
+  {
+    "cca3": "EGY",
+    "ccn3": "818",
+    "name": {
+      "common": "Egypt"
+    },
+    "translations": {
+      "por": {
+        "common": "Egito"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 97041072,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇪🇬"
+  },
+  {
+    "cca3": "SLV",
+    "ccn3": "222",
+    "name": {
+      "common": "El Salvador"
+    },
+    "translations": {
+      "por": {
+        "common": "El Salvador"
+      }
+    },
+    "region": "Americas",
+    "subregion": "North America",
+    "capital": [],
+    "population": 6172011,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "North America"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇸🇻"
+  },
+  {
+    "cca3": "ARE",
+    "ccn3": "784",
+    "name": {
+      "common": "United Arab Emirates"
+    },
+    "translations": {
+      "por": {
+        "common": "Emirados Árabes Unidos"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Asia",
+    "capital": [],
+    "population": 6072475,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇦🇪"
+  },
+  {
+    "cca3": "ECU",
+    "ccn3": "218",
+    "name": {
+      "common": "Ecuador"
+    },
+    "translations": {
+      "por": {
+        "common": "Equador"
+      }
+    },
+    "region": "Americas",
+    "subregion": "South America",
+    "capital": [],
+    "population": 16290913,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "South America"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇪🇨"
+  },
+  {
+    "cca3": "ERI",
+    "ccn3": "232",
+    "name": {
+      "common": "Eritrea"
+    },
+    "translations": {
+      "por": {
+        "common": "Eritreia"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 5918919,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇪🇷"
+  },
+  {
+    "cca3": "SVK",
+    "ccn3": "703",
+    "name": {
+      "common": "Slovakia"
+    },
+    "translations": {
+      "por": {
+        "common": "Eslováquia"
+      }
+    },
+    "region": "Europe",
+    "subregion": "Europe",
+    "capital": [],
+    "population": 5445829,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Europe"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇸🇰"
+  },
+  {
+    "cca3": "SVN",
+    "ccn3": "705",
+    "name": {
+      "common": "Slovenia"
+    },
+    "translations": {
+      "por": {
+        "common": "Eslovênia"
+      }
+    },
+    "region": "Europe",
+    "subregion": "Europe",
+    "capital": [],
+    "population": 1972126,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Europe"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇸🇮"
+  },
+  {
+    "cca3": "ESP",
+    "ccn3": "724",
+    "name": {
+      "common": "Spain"
+    },
+    "translations": {
+      "por": {
+        "common": "Espanha"
+      }
+    },
+    "region": "Europe",
+    "subregion": "Europe",
+    "capital": [],
+    "population": 48958159,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Europe"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇪🇸"
+  },
+  {
+    "cca3": "SWZ",
+    "ccn3": "748",
+    "name": {
+      "common": "Eswatini"
+    },
+    "translations": {
+      "por": {
+        "common": "Essuatíni"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 1467152,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇸🇿"
+  },
+  {
+    "cca3": "USA",
+    "ccn3": "840",
+    "name": {
+      "common": "United States"
+    },
+    "translations": {
+      "por": {
+        "common": "Estados Unidos"
+      }
+    },
+    "region": "Americas",
+    "subregion": "North America",
+    "capital": [],
+    "population": 326625791,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "North America"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇺🇸"
+  },
+  {
+    "cca3": "EST",
+    "ccn3": "233",
+    "name": {
+      "common": "Estonia"
+    },
+    "translations": {
+      "por": {
+        "common": "Estônia"
+      }
+    },
+    "region": "Europe",
+    "subregion": "Europe",
+    "capital": [],
+    "population": 1251581,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Europe"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇪🇪"
+  },
+  {
+    "cca3": "ETH",
+    "ccn3": "231",
+    "name": {
+      "common": "Ethiopia"
+    },
+    "translations": {
+      "por": {
+        "common": "Etiópia"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 105350020,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇪🇹"
+  },
+  {
+    "cca3": "FJI",
+    "ccn3": "242",
+    "name": {
+      "common": "Fiji"
+    },
+    "translations": {
+      "por": {
+        "common": "Fiji"
+      }
+    },
+    "region": "Oceania",
+    "subregion": "Oceania",
+    "capital": [],
+    "population": 920938,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Oceania"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇫🇯"
+  },
+  {
+    "cca3": "PHL",
+    "ccn3": "608",
+    "name": {
+      "common": "Philippines"
+    },
+    "translations": {
+      "por": {
+        "common": "Filipinas"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Asia",
+    "capital": [],
+    "population": 104256076,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇵🇭"
+  },
+  {
+    "cca3": "FIN",
+    "ccn3": "246",
+    "name": {
+      "common": "Finland"
+    },
+    "translations": {
+      "por": {
+        "common": "Finlândia"
+      }
+    },
+    "region": "Europe",
+    "subregion": "Europe",
+    "capital": [],
+    "population": 5491218,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Europe"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇫🇮"
+  },
+  {
+    "cca3": "GAB",
+    "ccn3": "266",
+    "name": {
+      "common": "Gabon"
+    },
+    "translations": {
+      "por": {
+        "common": "Gabão"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 1772255,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇬🇦"
+  },
+  {
+    "cca3": "GHA",
+    "ccn3": "288",
+    "name": {
+      "common": "Ghana"
+    },
+    "translations": {
+      "por": {
+        "common": "Gana"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 27499924,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇬🇭"
+  },
+  {
+    "cca3": "GEO",
+    "ccn3": "268",
+    "name": {
+      "common": "Georgia"
+    },
+    "translations": {
+      "por": {
+        "common": "Geórgia"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Asia",
+    "capital": [],
+    "population": 4926330,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇬🇪"
+  },
+  {
+    "cca3": "GRD",
+    "ccn3": "308",
+    "name": {
+      "common": "Grenada"
+    },
+    "translations": {
+      "por": {
+        "common": "Granada"
+      }
+    },
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "capital": [],
+    "population": null,
+    "area": null,
+    "flags": {},
+    "continents": [],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇬🇩"
+  },
+  {
+    "cca3": "GRL",
+    "ccn3": "304",
+    "name": {
+      "common": "Greenland"
+    },
+    "translations": {
+      "por": {
+        "common": "Groenlândia"
+      }
+    },
+    "region": "Americas",
+    "subregion": "North America",
+    "capital": [],
+    "population": 57713,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "North America"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇬🇱"
+  },
+  {
+    "cca3": "GRC",
+    "ccn3": "300",
+    "name": {
+      "common": "Greece"
+    },
+    "translations": {
+      "por": {
+        "common": "Grécia"
+      }
+    },
+    "region": "Europe",
+    "subregion": "Europe",
+    "capital": [],
+    "population": 10768477,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Europe"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇬🇷"
+  },
+  {
+    "cca3": "GTM",
+    "ccn3": "320",
+    "name": {
+      "common": "Guatemala"
+    },
+    "translations": {
+      "por": {
+        "common": "Guatemala"
+      }
+    },
+    "region": "Americas",
+    "subregion": "North America",
+    "capital": [],
+    "population": 15460732,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "North America"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇬🇹"
+  },
+  {
+    "cca3": "GUY",
+    "ccn3": "328",
+    "name": {
+      "common": "Guyana"
+    },
+    "translations": {
+      "por": {
+        "common": "Guiana"
+      }
+    },
+    "region": "Americas",
+    "subregion": "South America",
+    "capital": [],
+    "population": 737718,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "South America"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇬🇾"
+  },
+  {
+    "cca3": "GIN",
+    "ccn3": "324",
+    "name": {
+      "common": "Guinea"
+    },
+    "translations": {
+      "por": {
+        "common": "Guiné"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 12413867,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇬🇳"
+  },
+  {
+    "cca3": "GNQ",
+    "ccn3": "226",
+    "name": {
+      "common": "Equatorial Guinea"
+    },
+    "translations": {
+      "por": {
+        "common": "Guiné Equatorial"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 778358,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇬🇶"
+  },
+  {
+    "cca3": "GNB",
+    "ccn3": "624",
+    "name": {
+      "common": "Guinea-Bissau"
+    },
+    "translations": {
+      "por": {
+        "common": "Guiné-Bissau"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 1792338,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇬🇼"
+  },
+  {
+    "cca3": "GMB",
+    "ccn3": "270",
+    "name": {
+      "common": "Gambia"
+    },
+    "translations": {
+      "por": {
+        "common": "Gâmbia"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 2051363,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇬🇲"
+  },
+  {
+    "cca3": "HTI",
+    "ccn3": "332",
+    "name": {
+      "common": "Haiti"
+    },
+    "translations": {
+      "por": {
+        "common": "Haiti"
+      }
+    },
+    "region": "Americas",
+    "subregion": "North America",
+    "capital": [],
+    "population": 10646714,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "North America"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇭🇹"
+  },
+  {
+    "cca3": "HND",
+    "ccn3": "340",
+    "name": {
+      "common": "Honduras"
+    },
+    "translations": {
+      "por": {
+        "common": "Honduras"
+      }
+    },
+    "region": "Americas",
+    "subregion": "North America",
+    "capital": [],
+    "population": 9038741,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "North America"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇭🇳"
+  },
+  {
+    "cca3": "HUN",
+    "ccn3": "348",
+    "name": {
+      "common": "Hungary"
+    },
+    "translations": {
+      "por": {
+        "common": "Hungria"
+      }
+    },
+    "region": "Europe",
+    "subregion": "Europe",
+    "capital": [],
+    "population": 9850845,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Europe"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇭🇺"
+  },
+  {
+    "cca3": "FLK",
+    "ccn3": "238",
+    "name": {
+      "common": "Falkland Islands (Malvinas)"
+    },
+    "translations": {
+      "por": {
+        "common": "Ilhas Malvinas"
+      }
+    },
+    "region": "Americas",
+    "subregion": "South America",
+    "capital": [],
+    "population": 2931,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "South America"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇫🇰"
+  },
+  {
+    "cca3": "MHL",
+    "ccn3": "584",
+    "name": {
+      "common": "Marshall Islands"
+    },
+    "translations": {
+      "por": {
+        "common": "Ilhas Marshall"
+      }
+    },
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "capital": [],
+    "population": null,
+    "area": null,
+    "flags": {},
+    "continents": [],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇲🇭"
+  },
+  {
+    "cca3": "SLB",
+    "ccn3": "090",
+    "name": {
+      "common": "Solomon Islands"
+    },
+    "translations": {
+      "por": {
+        "common": "Ilhas Salomão"
+      }
+    },
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "capital": [],
+    "population": 647581,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Oceania"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇸🇧"
+  },
+  {
+    "cca3": "IDN",
+    "ccn3": "360",
+    "name": {
+      "common": "Indonesia"
+    },
+    "translations": {
+      "por": {
+        "common": "Indonésia"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Asia",
+    "capital": [],
+    "population": 260580739,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇮🇩"
+  },
+  {
+    "cca3": "IRQ",
+    "ccn3": "368",
+    "name": {
+      "common": "Iraq"
+    },
+    "translations": {
+      "por": {
+        "common": "Iraque"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Asia",
+    "capital": [],
+    "population": 39192111,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇮🇶"
+  },
+  {
+    "cca3": "IRL",
+    "ccn3": "372",
+    "name": {
+      "common": "Ireland"
+    },
+    "translations": {
+      "por": {
+        "common": "Irlanda"
+      }
+    },
+    "region": "Europe",
+    "subregion": "Europe",
+    "capital": [],
+    "population": 5011102,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Europe"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇮🇪"
+  },
+  {
+    "cca3": "IRN",
+    "ccn3": "364",
+    "name": {
+      "common": "Iran, Islamic Republic of"
+    },
+    "translations": {
+      "por": {
+        "common": "Irã"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Asia",
+    "capital": [],
+    "population": 82021564,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇮🇷"
+  },
+  {
+    "cca3": "ISL",
+    "ccn3": "352",
+    "name": {
+      "common": "Iceland"
+    },
+    "translations": {
+      "por": {
+        "common": "Islândia"
+      }
+    },
+    "region": "Europe",
+    "subregion": "Europe",
+    "capital": [],
+    "population": 339747,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Europe"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇮🇸"
+  },
+  {
+    "cca3": "ISR",
+    "ccn3": "376",
+    "name": {
+      "common": "Israel"
+    },
+    "translations": {
+      "por": {
+        "common": "Israel"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Asia",
+    "capital": [],
+    "population": 8299706,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇮🇱"
+  },
+  {
+    "cca3": "ITA",
+    "ccn3": "380",
+    "name": {
+      "common": "Italy"
+    },
+    "translations": {
+      "por": {
+        "common": "Itália"
+      }
+    },
+    "region": "Europe",
+    "subregion": "Europe",
+    "capital": [],
+    "population": 62137802,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Europe"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇮🇹"
+  },
+  {
+    "cca3": "YEM",
+    "ccn3": "887",
+    "name": {
+      "common": "Yemen"
+    },
+    "translations": {
+      "por": {
+        "common": "Iêmen"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Asia",
+    "capital": [],
+    "population": 28036829,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇾🇪"
+  },
+  {
+    "cca3": "JAM",
+    "ccn3": "388",
+    "name": {
+      "common": "Jamaica"
+    },
+    "translations": {
+      "por": {
+        "common": "Jamaica"
+      }
+    },
+    "region": "Americas",
+    "subregion": "North America",
+    "capital": [],
+    "population": 2990561,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "North America"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇯🇲"
+  },
+  {
+    "cca3": "JPN",
+    "ccn3": "392",
+    "name": {
+      "common": "Japan"
+    },
+    "translations": {
+      "por": {
+        "common": "Japão"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Asia",
+    "capital": [],
+    "population": 126451398,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇯🇵"
+  },
+  {
+    "cca3": "JOR",
+    "ccn3": "400",
+    "name": {
+      "common": "Jordan"
+    },
+    "translations": {
+      "por": {
+        "common": "Jordânia"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Asia",
+    "capital": [],
+    "population": 10248069,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇯🇴"
+  },
+  {
+    "cca3": "KWT",
+    "ccn3": "414",
+    "name": {
+      "common": "Kuwait"
+    },
+    "translations": {
+      "por": {
+        "common": "Kuwait"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Asia",
+    "capital": [],
+    "population": 2875422,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇰🇼"
+  },
+  {
+    "cca3": "LAO",
+    "ccn3": "418",
+    "name": {
+      "common": "Lao People's Democratic Republic"
+    },
+    "translations": {
+      "por": {
+        "common": "Laos"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Asia",
+    "capital": [],
+    "population": 7126706,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇱🇦"
+  },
+  {
+    "cca3": "LSO",
+    "ccn3": "426",
+    "name": {
+      "common": "Lesotho"
+    },
+    "translations": {
+      "por": {
+        "common": "Lesoto"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 1958042,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇱🇸"
+  },
+  {
+    "cca3": "LVA",
+    "ccn3": "428",
+    "name": {
+      "common": "Latvia"
+    },
+    "translations": {
+      "por": {
+        "common": "Letônia"
+      }
+    },
+    "region": "Europe",
+    "subregion": "Europe",
+    "capital": [],
+    "population": 1944643,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Europe"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇱🇻"
+  },
+  {
+    "cca3": "LBR",
+    "ccn3": "430",
+    "name": {
+      "common": "Liberia"
+    },
+    "translations": {
+      "por": {
+        "common": "Libéria"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 4689021,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇱🇷"
+  },
+  {
+    "cca3": "LIE",
+    "ccn3": "438",
+    "name": {
+      "common": "Liechtenstein"
+    },
+    "translations": {
+      "por": {
+        "common": "Liechtenstein"
+      }
+    },
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "capital": [],
+    "population": null,
+    "area": null,
+    "flags": {},
+    "continents": [],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇱🇮"
+  },
+  {
+    "cca3": "LTU",
+    "ccn3": "440",
+    "name": {
+      "common": "Lithuania"
+    },
+    "translations": {
+      "por": {
+        "common": "Lituânia"
+      }
+    },
+    "region": "Europe",
+    "subregion": "Europe",
+    "capital": [],
+    "population": 2823859,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Europe"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇱🇹"
+  },
+  {
+    "cca3": "LUX",
+    "ccn3": "442",
+    "name": {
+      "common": "Luxembourg"
+    },
+    "translations": {
+      "por": {
+        "common": "Luxemburgo"
+      }
+    },
+    "region": "Europe",
+    "subregion": "Europe",
+    "capital": [],
+    "population": 594130,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Europe"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇱🇺"
+  },
+  {
+    "cca3": "LBN",
+    "ccn3": "422",
+    "name": {
+      "common": "Lebanon"
+    },
+    "translations": {
+      "por": {
+        "common": "Líbano"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Asia",
+    "capital": [],
+    "population": 6229794,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇱🇧"
+  },
+  {
+    "cca3": "LBY",
+    "ccn3": "434",
+    "name": {
+      "common": "Libya"
+    },
+    "translations": {
+      "por": {
+        "common": "Líbia"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 6653210,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇱🇾"
+  },
+  {
+    "cca3": "MKD",
+    "ccn3": "807",
+    "name": {
+      "common": "North Macedonia"
+    },
+    "translations": {
+      "por": {
+        "common": "Macedônia do Norte"
+      }
+    },
+    "region": "Europe",
+    "subregion": "Europe",
+    "capital": [],
+    "population": 2103721,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Europe"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇲🇰"
+  },
+  {
+    "cca3": "MDG",
+    "ccn3": "450",
+    "name": {
+      "common": "Madagascar"
+    },
+    "translations": {
+      "por": {
+        "common": "Madagascar"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 25054161,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇲🇬"
+  },
+  {
+    "cca3": "MWI",
+    "ccn3": "454",
+    "name": {
+      "common": "Malawi"
+    },
+    "translations": {
+      "por": {
+        "common": "Malaui"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 19196246,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇲🇼"
+  },
+  {
+    "cca3": "MDV",
+    "ccn3": "462",
+    "name": {
+      "common": "Maldives"
+    },
+    "translations": {
+      "por": {
+        "common": "Maldivas"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "capital": [],
+    "population": null,
+    "area": null,
+    "flags": {},
+    "continents": [],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇲🇻"
+  },
+  {
+    "cca3": "MLI",
+    "ccn3": "466",
+    "name": {
+      "common": "Mali"
+    },
+    "translations": {
+      "por": {
+        "common": "Mali"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 17885245,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇲🇱"
+  },
+  {
+    "cca3": "MLT",
+    "ccn3": "470",
+    "name": {
+      "common": "Malta"
+    },
+    "translations": {
+      "por": {
+        "common": "Malta"
+      }
+    },
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "capital": [],
+    "population": null,
+    "area": null,
+    "flags": {},
+    "continents": [],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇲🇹"
+  },
+  {
+    "cca3": "MYS",
+    "ccn3": "458",
+    "name": {
+      "common": "Malaysia"
+    },
+    "translations": {
+      "por": {
+        "common": "Malásia"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Asia",
+    "capital": [],
+    "population": 31381992,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇲🇾"
+  },
+  {
+    "cca3": "MAR",
+    "ccn3": "504",
+    "name": {
+      "common": "Morocco"
+    },
+    "translations": {
+      "por": {
+        "common": "Marrocos"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 33986655,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇲🇦"
+  },
+  {
+    "cca3": "MRT",
+    "ccn3": "478",
+    "name": {
+      "common": "Mauritania"
+    },
+    "translations": {
+      "por": {
+        "common": "Mauritânia"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 3758571,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇲🇷"
+  },
+  {
+    "cca3": "MMR",
+    "ccn3": "104",
+    "name": {
+      "common": "Myanmar"
+    },
+    "translations": {
+      "por": {
+        "common": "Mianmar (Birmânia)"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Asia",
+    "capital": [],
+    "population": 55123814,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇲🇲"
+  },
+  {
+    "cca3": "FSM",
+    "ccn3": "583",
+    "name": {
+      "common": "Micronesia, Federated States of"
+    },
+    "translations": {
+      "por": {
+        "common": "Micronésia"
+      }
+    },
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "capital": [],
+    "population": null,
+    "area": null,
+    "flags": {},
+    "continents": [],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇫🇲"
+  },
+  {
+    "cca3": "MDA",
+    "ccn3": "498",
+    "name": {
+      "common": "Moldova, Republic of"
+    },
+    "translations": {
+      "por": {
+        "common": "Moldávia"
+      }
+    },
+    "region": "Europe",
+    "subregion": "Europe",
+    "capital": [],
+    "population": 3474121,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Europe"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇲🇩"
+  },
+  {
+    "cca3": "MNG",
+    "ccn3": "496",
+    "name": {
+      "common": "Mongolia"
+    },
+    "translations": {
+      "por": {
+        "common": "Mongólia"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Asia",
+    "capital": [],
+    "population": 3068243,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇲🇳"
+  },
+  {
+    "cca3": "MNE",
+    "ccn3": "499",
+    "name": {
+      "common": "Montenegro"
+    },
+    "translations": {
+      "por": {
+        "common": "Montenegro"
+      }
+    },
+    "region": "Europe",
+    "subregion": "Europe",
+    "capital": [],
+    "population": 642550,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Europe"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇲🇪"
+  },
+  {
+    "cca3": "MOZ",
+    "ccn3": "508",
+    "name": {
+      "common": "Mozambique"
+    },
+    "translations": {
+      "por": {
+        "common": "Moçambique"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 26573706,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇲🇿"
+  },
+  {
+    "cca3": "MEX",
+    "ccn3": "484",
+    "name": {
+      "common": "Mexico"
+    },
+    "translations": {
+      "por": {
+        "common": "México"
+      }
+    },
+    "region": "Americas",
+    "subregion": "North America",
+    "capital": [],
+    "population": 124574795,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "North America"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇲🇽"
+  },
+  {
+    "cca3": "MCO",
+    "ccn3": "492",
+    "name": {
+      "common": "Monaco"
+    },
+    "translations": {
+      "por": {
+        "common": "Mônaco"
+      }
+    },
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "capital": [],
+    "population": null,
+    "area": null,
+    "flags": {},
+    "continents": [],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇲🇨"
+  },
+  {
+    "cca3": "NAM",
+    "ccn3": "516",
+    "name": {
+      "common": "Namibia"
+    },
+    "translations": {
+      "por": {
+        "common": "Namíbia"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 2484780,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇳🇦"
+  },
+  {
+    "cca3": "NRU",
+    "ccn3": "520",
+    "name": {
+      "common": "Nauru"
+    },
+    "translations": {
+      "por": {
+        "common": "Nauru"
+      }
+    },
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "capital": [],
+    "population": null,
+    "area": null,
+    "flags": {},
+    "continents": [],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇳🇷"
+  },
+  {
+    "cca3": "NPL",
+    "ccn3": "524",
+    "name": {
+      "common": "Nepal"
+    },
+    "translations": {
+      "por": {
+        "common": "Nepal"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Asia",
+    "capital": [],
+    "population": 29384297,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇳🇵"
+  },
+  {
+    "cca3": "NIC",
+    "ccn3": "558",
+    "name": {
+      "common": "Nicaragua"
+    },
+    "translations": {
+      "por": {
+        "common": "Nicarágua"
+      }
+    },
+    "region": "Americas",
+    "subregion": "North America",
+    "capital": [],
+    "population": 6025951,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "North America"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇳🇮"
+  },
+  {
+    "cca3": "NGA",
+    "ccn3": "566",
+    "name": {
+      "common": "Nigeria"
+    },
+    "translations": {
+      "por": {
+        "common": "Nigéria"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 190632261,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇳🇬"
+  },
+  {
+    "cca3": "NCL",
+    "ccn3": "540",
+    "name": {
+      "common": "New Caledonia"
+    },
+    "translations": {
+      "por": {
+        "common": "Nova Caledônia"
+      }
+    },
+    "region": "Oceania",
+    "subregion": "Oceania",
+    "capital": [],
+    "population": 279070,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Oceania"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇳🇨"
+  },
+  {
+    "cca3": "NZL",
+    "ccn3": "554",
+    "name": {
+      "common": "New Zealand"
+    },
+    "translations": {
+      "por": {
+        "common": "Nova Zelândia"
+      }
+    },
+    "region": "Oceania",
+    "subregion": "Oceania",
+    "capital": [],
+    "population": 4510327,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Oceania"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇳🇿"
+  },
+  {
+    "cca3": "NER",
+    "ccn3": "562",
+    "name": {
+      "common": "Niger"
+    },
+    "translations": {
+      "por": {
+        "common": "Níger"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 19245344,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇳🇪"
+  },
+  {
+    "cca3": "OMN",
+    "ccn3": "512",
+    "name": {
+      "common": "Oman"
+    },
+    "translations": {
+      "por": {
+        "common": "Omã"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Asia",
+    "capital": [],
+    "population": 3424386,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇴🇲"
+  },
+  {
+    "cca3": "PLW",
+    "ccn3": "585",
+    "name": {
+      "common": "Palau"
+    },
+    "translations": {
+      "por": {
+        "common": "Palau"
+      }
+    },
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "capital": [],
+    "population": null,
+    "area": null,
+    "flags": {},
+    "continents": [],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇵🇼"
+  },
+  {
+    "cca3": "PAN",
+    "ccn3": "591",
+    "name": {
+      "common": "Panama"
+    },
+    "translations": {
+      "por": {
+        "common": "Panamá"
+      }
+    },
+    "region": "Americas",
+    "subregion": "North America",
+    "capital": [],
+    "population": 3753142,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "North America"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇵🇦"
+  },
+  {
+    "cca3": "PNG",
+    "ccn3": "598",
+    "name": {
+      "common": "Papua New Guinea"
+    },
+    "translations": {
+      "por": {
+        "common": "Papua-Nova Guiné"
+      }
+    },
+    "region": "Oceania",
+    "subregion": "Oceania",
+    "capital": [],
+    "population": 6909701,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Oceania"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇵🇬"
+  },
+  {
+    "cca3": "PAK",
+    "ccn3": "586",
+    "name": {
+      "common": "Pakistan"
+    },
+    "translations": {
+      "por": {
+        "common": "Paquistão"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Asia",
+    "capital": [],
+    "population": 204924861,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇵🇰"
+  },
+  {
+    "cca3": "PRY",
+    "ccn3": "600",
+    "name": {
+      "common": "Paraguay"
+    },
+    "translations": {
+      "por": {
+        "common": "Paraguai"
+      }
+    },
+    "region": "Americas",
+    "subregion": "South America",
+    "capital": [],
+    "population": 6943739,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "South America"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇵🇾"
+  },
+  {
+    "cca3": "NLD",
+    "ccn3": "528",
+    "name": {
+      "common": "Netherlands"
+    },
+    "translations": {
+      "por": {
+        "common": "Países Baixos"
+      }
+    },
+    "region": "Europe",
+    "subregion": "Europe",
+    "capital": [],
+    "population": 17084719,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Europe"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇳🇱"
+  },
+  {
+    "cca3": "PER",
+    "ccn3": "604",
+    "name": {
+      "common": "Peru"
+    },
+    "translations": {
+      "por": {
+        "common": "Peru"
+      }
+    },
+    "region": "Americas",
+    "subregion": "South America",
+    "capital": [],
+    "population": 31036656,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "South America"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇵🇪"
+  },
+  {
+    "cca3": "POL",
+    "ccn3": "616",
+    "name": {
+      "common": "Poland"
+    },
+    "translations": {
+      "por": {
+        "common": "Polônia"
+      }
+    },
+    "region": "Europe",
+    "subregion": "Europe",
+    "capital": [],
+    "population": 38476269,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Europe"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇵🇱"
+  },
+  {
+    "cca3": "PRI",
+    "ccn3": "630",
+    "name": {
+      "common": "Puerto Rico"
+    },
+    "translations": {
+      "por": {
+        "common": "Porto Rico"
+      }
+    },
+    "region": "Americas",
+    "subregion": "North America",
+    "capital": [],
+    "population": 3351827,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "North America"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇵🇷"
+  },
+  {
+    "cca3": "PRT",
+    "ccn3": "620",
+    "name": {
+      "common": "Portugal"
+    },
+    "translations": {
+      "por": {
+        "common": "Portugal"
+      }
+    },
+    "region": "Europe",
+    "subregion": "Europe",
+    "capital": [],
+    "population": 10839514,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Europe"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇵🇹"
+  },
+  {
+    "cca3": "KGZ",
+    "ccn3": "417",
+    "name": {
+      "common": "Kyrgyzstan"
+    },
+    "translations": {
+      "por": {
+        "common": "Quirguistão"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Asia",
+    "capital": [],
+    "population": 5789122,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇰🇬"
+  },
+  {
+    "cca3": "KIR",
+    "ccn3": "296",
+    "name": {
+      "common": "Kiribati"
+    },
+    "translations": {
+      "por": {
+        "common": "Quiribati"
+      }
+    },
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "capital": [],
+    "population": null,
+    "area": null,
+    "flags": {},
+    "continents": [],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇰🇮"
+  },
+  {
+    "cca3": "KEN",
+    "ccn3": "404",
+    "name": {
+      "common": "Kenya"
+    },
+    "translations": {
+      "por": {
+        "common": "Quênia"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 47615739,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇰🇪"
+  },
+  {
+    "cca3": "GBR",
+    "ccn3": "826",
+    "name": {
+      "common": "United Kingdom"
+    },
+    "translations": {
+      "por": {
+        "common": "Reino Unido"
+      }
+    },
+    "region": "Europe",
+    "subregion": "Europe",
+    "capital": [],
+    "population": 64769452,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Europe"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇬🇧"
+  },
+  {
+    "cca3": "CAF",
+    "ccn3": "140",
+    "name": {
+      "common": "Central African Republic"
+    },
+    "translations": {
+      "por": {
+        "common": "República Centro-Africana"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 5625118,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇨🇫"
+  },
+  {
+    "cca3": "DOM",
+    "ccn3": "214",
+    "name": {
+      "common": "Dominican Republic"
+    },
+    "translations": {
+      "por": {
+        "common": "República Dominicana"
+      }
+    },
+    "region": "Americas",
+    "subregion": "North America",
+    "capital": [],
+    "population": 10734247,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "North America"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇩🇴"
+  },
+  {
+    "cca3": "COG",
+    "ccn3": "178",
+    "name": {
+      "common": "Congo"
+    },
+    "translations": {
+      "por": {
+        "common": "República do Congo"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 4954674,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇨🇬"
+  },
+  {
+    "cca3": "ROU",
+    "ccn3": "642",
+    "name": {
+      "common": "Romania"
+    },
+    "translations": {
+      "por": {
+        "common": "Romênia"
+      }
+    },
+    "region": "Europe",
+    "subregion": "Europe",
+    "capital": [],
+    "population": 21529967,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Europe"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇷🇴"
+  },
+  {
+    "cca3": "RWA",
+    "ccn3": "646",
+    "name": {
+      "common": "Rwanda"
+    },
+    "translations": {
+      "por": {
+        "common": "Ruanda"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 11901484,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇷🇼"
+  },
+  {
+    "cca3": "RUS",
+    "ccn3": "643",
+    "name": {
+      "common": "Russian Federation"
+    },
+    "translations": {
+      "por": {
+        "common": "Rússia"
+      }
+    },
+    "region": "Europe",
+    "subregion": "Europe",
+    "capital": [],
+    "population": 142257519,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Europe"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇷🇺"
+  },
+  {
+    "cca3": "ESH",
+    "ccn3": "732",
+    "name": {
+      "common": "Western Sahara"
+    },
+    "translations": {
+      "por": {
+        "common": "Saara Ocidental"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 603253,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇪🇭"
+  },
+  {
+    "cca3": "WSM",
+    "ccn3": "882",
+    "name": {
+      "common": "Samoa"
+    },
+    "translations": {
+      "por": {
+        "common": "Samoa"
+      }
+    },
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "capital": [],
+    "population": null,
+    "area": null,
+    "flags": {},
+    "continents": [],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇼🇸"
+  },
+  {
+    "cca3": "SMR",
+    "ccn3": "674",
+    "name": {
+      "common": "San Marino"
+    },
+    "translations": {
+      "por": {
+        "common": "San Marino"
+      }
+    },
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "capital": [],
+    "population": null,
+    "area": null,
+    "flags": {},
+    "continents": [],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇸🇲"
+  },
+  {
+    "cca3": "LCA",
+    "ccn3": "662",
+    "name": {
+      "common": "Saint Lucia"
+    },
+    "translations": {
+      "por": {
+        "common": "Santa Lúcia"
+      }
+    },
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "capital": [],
+    "population": null,
+    "area": null,
+    "flags": {},
+    "continents": [],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇱🇨"
+  },
+  {
+    "cca3": "SYC",
+    "ccn3": "690",
+    "name": {
+      "common": "Seychelles"
+    },
+    "translations": {
+      "por": {
+        "common": "Seicheles"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "capital": [],
+    "population": null,
+    "area": null,
+    "flags": {},
+    "continents": [],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇸🇨"
+  },
+  {
+    "cca3": "SEN",
+    "ccn3": "686",
+    "name": {
+      "common": "Senegal"
+    },
+    "translations": {
+      "por": {
+        "common": "Senegal"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 14668522,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇸🇳"
+  },
+  {
+    "cca3": "SLE",
+    "ccn3": "694",
+    "name": {
+      "common": "Sierra Leone"
+    },
+    "translations": {
+      "por": {
+        "common": "Serra Leoa"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 6163195,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇸🇱"
+  },
+  {
+    "cca3": "SGP",
+    "ccn3": "702",
+    "name": {
+      "common": "Singapore"
+    },
+    "translations": {
+      "por": {
+        "common": "Singapura"
+      }
+    },
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "capital": [],
+    "population": null,
+    "area": null,
+    "flags": {},
+    "continents": [],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇸🇬"
+  },
+  {
+    "cca3": "SOM",
+    "ccn3": "706",
+    "name": {
+      "common": "Somalia"
+    },
+    "translations": {
+      "por": {
+        "common": "Somália"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 7531386,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇸🇴"
+  },
+  {
+    "cca3": "LKA",
+    "ccn3": "144",
+    "name": {
+      "common": "Sri Lanka"
+    },
+    "translations": {
+      "por": {
+        "common": "Sri Lanka"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Asia",
+    "capital": [],
+    "population": 22409381,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇱🇰"
+  },
+  {
+    "cca3": "SDN",
+    "ccn3": "729",
+    "name": {
+      "common": "Sudan"
+    },
+    "translations": {
+      "por": {
+        "common": "Sudão"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 37345935,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇸🇩"
+  },
+  {
+    "cca3": "SSD",
+    "ccn3": "728",
+    "name": {
+      "common": "South Sudan"
+    },
+    "translations": {
+      "por": {
+        "common": "Sudão do Sul"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "capital": [],
+    "population": 13026129,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇸🇸"
+  },
+  {
+    "cca3": "SUR",
+    "ccn3": "740",
+    "name": {
+      "common": "Suriname"
+    },
+    "translations": {
+      "por": {
+        "common": "Suriname"
+      }
+    },
+    "region": "Americas",
+    "subregion": "South America",
+    "capital": [],
+    "population": 591919,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "South America"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇸🇷"
+  },
+  {
+    "cca3": "SWE",
+    "ccn3": "752",
+    "name": {
+      "common": "Sweden"
+    },
+    "translations": {
+      "por": {
+        "common": "Suécia"
+      }
+    },
+    "region": "Europe",
+    "subregion": "Europe",
+    "capital": [],
+    "population": 9960487,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Europe"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇸🇪"
+  },
+  {
+    "cca3": "CHE",
+    "ccn3": "756",
+    "name": {
+      "common": "Switzerland"
+    },
+    "translations": {
+      "por": {
+        "common": "Suíça"
+      }
+    },
+    "region": "Europe",
+    "subregion": "Europe",
+    "capital": [],
+    "population": 8236303,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Europe"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇨🇭"
+  },
+  {
+    "cca3": "KNA",
+    "ccn3": "659",
+    "name": {
+      "common": "Saint Kitts and Nevis"
+    },
+    "translations": {
+      "por": {
+        "common": "São Cristóvão e Névis"
+      }
+    },
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "capital": [],
+    "population": null,
+    "area": null,
+    "flags": {},
+    "continents": [],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇰🇳"
+  },
+  {
+    "cca3": "STP",
+    "ccn3": "678",
+    "name": {
+      "common": "Sao Tome and Principe"
+    },
+    "translations": {
+      "por": {
+        "common": "São Tomé e Príncipe"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "capital": [],
+    "population": null,
+    "area": null,
+    "flags": {},
+    "continents": [],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇸🇹"
+  },
+  {
+    "cca3": "VCT",
+    "ccn3": "670",
+    "name": {
+      "common": "Saint Vincent and the Grenadines"
+    },
+    "translations": {
+      "por": {
+        "common": "São Vicente e Granadinas"
+      }
+    },
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "capital": [],
+    "population": null,
+    "area": null,
+    "flags": {},
+    "continents": [],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇻🇨"
+  },
+  {
+    "cca3": "SRB",
+    "ccn3": "688",
+    "name": {
+      "common": "Serbia"
+    },
+    "translations": {
+      "por": {
+        "common": "Sérvia"
+      }
+    },
+    "region": "Europe",
+    "subregion": "Europe",
+    "capital": [],
+    "population": 7111024,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Europe"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇷🇸"
+  },
+  {
+    "cca3": "SYR",
+    "ccn3": "760",
+    "name": {
+      "common": "Syrian Arab Republic"
+    },
+    "translations": {
+      "por": {
+        "common": "Síria"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Asia",
+    "capital": [],
+    "population": 18028549,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇸🇾"
+  },
+  {
+    "cca3": "TJK",
+    "ccn3": "762",
+    "name": {
+      "common": "Tajikistan"
+    },
+    "translations": {
+      "por": {
+        "common": "Tadjiquistão"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Asia",
+    "capital": [],
+    "population": 8468555,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇹🇯"
+  },
+  {
+    "cca3": "THA",
+    "ccn3": "764",
+    "name": {
+      "common": "Thailand"
+    },
+    "translations": {
+      "por": {
+        "common": "Tailândia"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Asia",
+    "capital": [],
+    "population": 68414135,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇹🇭"
+  },
+  {
+    "cca3": "TWN",
+    "ccn3": "158",
+    "name": {
+      "common": "Taiwan, Province of China"
+    },
+    "translations": {
+      "por": {
+        "common": "Taiwan"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Asia",
+    "capital": [],
+    "population": 23508428,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇹🇼"
+  },
+  {
+    "cca3": "TZA",
+    "ccn3": "834",
+    "name": {
+      "common": "Tanzania, United Republic of"
+    },
+    "translations": {
+      "por": {
+        "common": "Tanzânia"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 53950935,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇹🇿"
+  },
+  {
+    "cca3": "CZE",
+    "ccn3": "203",
+    "name": {
+      "common": "Czechia"
+    },
+    "translations": {
+      "por": {
+        "common": "Tchéquia"
+      }
+    },
+    "region": "Europe",
+    "subregion": "Europe",
+    "capital": [],
+    "population": 10674723,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Europe"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇨🇿"
+  },
+  {
+    "cca3": "ATF",
+    "ccn3": "260",
+    "name": {
+      "common": "French Southern Territories"
+    },
+    "translations": {
+      "por": {
+        "common": "Territórios Franceses do Sul"
+      }
+    },
+    "region": "",
+    "subregion": "",
+    "capital": [],
+    "population": 140,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Seven seas (open ocean)"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇹🇫"
+  },
+  {
+    "cca3": "PSE",
+    "ccn3": "275",
+    "name": {
+      "common": "Palestine, State of"
+    },
+    "translations": {
+      "por": {
+        "common": "Territórios palestinos"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "capital": [],
+    "population": 4543126,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇵🇸"
+  },
+  {
+    "cca3": "TLS",
+    "ccn3": "626",
+    "name": {
+      "common": "Timor-Leste"
+    },
+    "translations": {
+      "por": {
+        "common": "Timor-Leste"
+      }
+    },
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "capital": [],
+    "population": 1291358,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇹🇱"
+  },
+  {
+    "cca3": "TGO",
+    "ccn3": "768",
+    "name": {
+      "common": "Togo"
+    },
+    "translations": {
+      "por": {
+        "common": "Togo"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 7965055,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇹🇬"
+  },
+  {
+    "cca3": "TON",
+    "ccn3": "776",
+    "name": {
+      "common": "Tonga"
+    },
+    "translations": {
+      "por": {
+        "common": "Tonga"
+      }
+    },
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "capital": [],
+    "population": null,
+    "area": null,
+    "flags": {},
+    "continents": [],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇹🇴"
+  },
+  {
+    "cca3": "TTO",
+    "ccn3": "780",
+    "name": {
+      "common": "Trinidad and Tobago"
+    },
+    "translations": {
+      "por": {
+        "common": "Trinidad e Tobago"
+      }
+    },
+    "region": "Americas",
+    "subregion": "North America",
+    "capital": [],
+    "population": 1218208,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "North America"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇹🇹"
+  },
+  {
+    "cca3": "TUN",
+    "ccn3": "788",
+    "name": {
+      "common": "Tunisia"
+    },
+    "translations": {
+      "por": {
+        "common": "Tunísia"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 11403800,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇹🇳"
+  },
+  {
+    "cca3": "TKM",
+    "ccn3": "795",
+    "name": {
+      "common": "Turkmenistan"
+    },
+    "translations": {
+      "por": {
+        "common": "Turcomenistão"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Asia",
+    "capital": [],
+    "population": 5351277,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇹🇲"
+  },
+  {
+    "cca3": "TUR",
+    "ccn3": "792",
+    "name": {
+      "common": "Türkiye"
+    },
+    "translations": {
+      "por": {
+        "common": "Turquia"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Asia",
+    "capital": [],
+    "population": 80845215,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇹🇷"
+  },
+  {
+    "cca3": "TUV",
+    "ccn3": "798",
+    "name": {
+      "common": "Tuvalu"
+    },
+    "translations": {
+      "por": {
+        "common": "Tuvalu"
+      }
+    },
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "capital": [],
+    "population": null,
+    "area": null,
+    "flags": {},
+    "continents": [],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇹🇻"
+  },
+  {
+    "cca3": "UKR",
+    "ccn3": "804",
+    "name": {
+      "common": "Ukraine"
+    },
+    "translations": {
+      "por": {
+        "common": "Ucrânia"
+      }
+    },
+    "region": "Europe",
+    "subregion": "Europe",
+    "capital": [],
+    "population": 44033874,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Europe"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇺🇦"
+  },
+  {
+    "cca3": "UGA",
+    "ccn3": "800",
+    "name": {
+      "common": "Uganda"
+    },
+    "translations": {
+      "por": {
+        "common": "Uganda"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 39570125,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇺🇬"
+  },
+  {
+    "cca3": "URY",
+    "ccn3": "858",
+    "name": {
+      "common": "Uruguay"
+    },
+    "translations": {
+      "por": {
+        "common": "Uruguai"
+      }
+    },
+    "region": "Americas",
+    "subregion": "South America",
+    "capital": [],
+    "population": 3360148,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "South America"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇺🇾"
+  },
+  {
+    "cca3": "UZB",
+    "ccn3": "860",
+    "name": {
+      "common": "Uzbekistan"
+    },
+    "translations": {
+      "por": {
+        "common": "Uzbequistão"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Asia",
+    "capital": [],
+    "population": 29748859,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇺🇿"
+  },
+  {
+    "cca3": "VUT",
+    "ccn3": "548",
+    "name": {
+      "common": "Vanuatu"
+    },
+    "translations": {
+      "por": {
+        "common": "Vanuatu"
+      }
+    },
+    "region": "Oceania",
+    "subregion": "Oceania",
+    "capital": [],
+    "population": 282814,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Oceania"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇻🇺"
+  },
+  {
+    "cca3": "VEN",
+    "ccn3": "862",
+    "name": {
+      "common": "Venezuela, Bolivarian Republic of"
+    },
+    "translations": {
+      "por": {
+        "common": "Venezuela"
+      }
+    },
+    "region": "Americas",
+    "subregion": "South America",
+    "capital": [],
+    "population": 31304016,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "South America"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇻🇪"
+  },
+  {
+    "cca3": "VNM",
+    "ccn3": "704",
+    "name": {
+      "common": "Viet Nam"
+    },
+    "translations": {
+      "por": {
+        "common": "Vietnã"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Asia",
+    "capital": [],
+    "population": 96160163,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇻🇳"
+  },
+  {
+    "cca3": "ZWE",
+    "ccn3": "716",
+    "name": {
+      "common": "Zimbabwe"
+    },
+    "translations": {
+      "por": {
+        "common": "Zimbábue"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 13805084,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇿🇼"
+  },
+  {
+    "cca3": "ZMB",
+    "ccn3": "894",
+    "name": {
+      "common": "Zambia"
+    },
+    "translations": {
+      "por": {
+        "common": "Zâmbia"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 15972000,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇿🇲"
+  },
+  {
+    "cca3": "ZAF",
+    "ccn3": "710",
+    "name": {
+      "common": "South Africa"
+    },
+    "translations": {
+      "por": {
+        "common": "África do Sul"
+      }
+    },
+    "region": "Africa",
+    "subregion": "Africa",
+    "capital": [],
+    "population": 54841552,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Africa"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇿🇦"
+  },
+  {
+    "cca3": "AUT",
+    "ccn3": "040",
+    "name": {
+      "common": "Austria"
+    },
+    "translations": {
+      "por": {
+        "common": "Áustria"
+      }
+    },
+    "region": "Europe",
+    "subregion": "Europe",
+    "capital": [],
+    "population": 8754413,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Europe"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇦🇹"
+  },
+  {
+    "cca3": "IND",
+    "ccn3": "356",
+    "name": {
+      "common": "India"
+    },
+    "translations": {
+      "por": {
+        "common": "Índia"
+      }
+    },
+    "region": "Asia",
+    "subregion": "Asia",
+    "capital": [],
+    "population": 1281935911,
+    "area": null,
+    "flags": {},
+    "continents": [
+      "Asia"
+    ],
+    "languages": {},
+    "currencies": {},
+    "borders": [],
+    "flag": "🇮🇳"
+  }
+]
