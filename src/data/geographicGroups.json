@@ -1,0 +1,782 @@
+{
+  "CAN": {
+    "region": "Americas",
+    "subregion": "América do Norte"
+  },
+  "USA": {
+    "region": "Americas",
+    "subregion": "América do Norte"
+  },
+  "MEX": {
+    "region": "Americas",
+    "subregion": "América do Norte"
+  },
+  "BLZ": {
+    "region": "Americas",
+    "subregion": "América Central"
+  },
+  "CRI": {
+    "region": "Americas",
+    "subregion": "América Central"
+  },
+  "SLV": {
+    "region": "Americas",
+    "subregion": "América Central"
+  },
+  "GTM": {
+    "region": "Americas",
+    "subregion": "América Central"
+  },
+  "HND": {
+    "region": "Americas",
+    "subregion": "América Central"
+  },
+  "NIC": {
+    "region": "Americas",
+    "subregion": "América Central"
+  },
+  "PAN": {
+    "region": "Americas",
+    "subregion": "América Central"
+  },
+  "ATG": {
+    "region": "Americas",
+    "subregion": "Caribe"
+  },
+  "BHS": {
+    "region": "Americas",
+    "subregion": "Caribe"
+  },
+  "BRB": {
+    "region": "Americas",
+    "subregion": "Caribe"
+  },
+  "CUB": {
+    "region": "Americas",
+    "subregion": "Caribe"
+  },
+  "DMA": {
+    "region": "Americas",
+    "subregion": "Caribe"
+  },
+  "GRD": {
+    "region": "Americas",
+    "subregion": "Caribe"
+  },
+  "HTI": {
+    "region": "Americas",
+    "subregion": "Caribe"
+  },
+  "JAM": {
+    "region": "Americas",
+    "subregion": "Caribe"
+  },
+  "DOM": {
+    "region": "Americas",
+    "subregion": "Caribe"
+  },
+  "LCA": {
+    "region": "Americas",
+    "subregion": "Caribe"
+  },
+  "KNA": {
+    "region": "Americas",
+    "subregion": "Caribe"
+  },
+  "VCT": {
+    "region": "Americas",
+    "subregion": "Caribe"
+  },
+  "TTO": {
+    "region": "Americas",
+    "subregion": "Caribe"
+  },
+  "ARG": {
+    "region": "Americas",
+    "subregion": "América do Sul"
+  },
+  "BOL": {
+    "region": "Americas",
+    "subregion": "América do Sul"
+  },
+  "BRA": {
+    "region": "Americas",
+    "subregion": "América do Sul"
+  },
+  "CHL": {
+    "region": "Americas",
+    "subregion": "América do Sul"
+  },
+  "COL": {
+    "region": "Americas",
+    "subregion": "América do Sul"
+  },
+  "ECU": {
+    "region": "Americas",
+    "subregion": "América do Sul"
+  },
+  "GUY": {
+    "region": "Americas",
+    "subregion": "América do Sul"
+  },
+  "PRY": {
+    "region": "Americas",
+    "subregion": "América do Sul"
+  },
+  "PER": {
+    "region": "Americas",
+    "subregion": "América do Sul"
+  },
+  "SUR": {
+    "region": "Americas",
+    "subregion": "América do Sul"
+  },
+  "URY": {
+    "region": "Americas",
+    "subregion": "América do Sul"
+  },
+  "VEN": {
+    "region": "Americas",
+    "subregion": "América do Sul"
+  },
+  "DNK": {
+    "region": "Europe",
+    "subregion": "Europa Setentrional / Países Nórdicos"
+  },
+  "FIN": {
+    "region": "Europe",
+    "subregion": "Europa Setentrional / Países Nórdicos"
+  },
+  "ISL": {
+    "region": "Europe",
+    "subregion": "Europa Setentrional / Países Nórdicos"
+  },
+  "NOR": {
+    "region": "Europe",
+    "subregion": "Europa Setentrional / Países Nórdicos"
+  },
+  "SWE": {
+    "region": "Europe",
+    "subregion": "Europa Setentrional / Países Nórdicos"
+  },
+  "IRL": {
+    "region": "Europe",
+    "subregion": "Ilhas Britânicas"
+  },
+  "GBR": {
+    "region": "Europe",
+    "subregion": "Ilhas Britânicas"
+  },
+  "DEU": {
+    "region": "Europe",
+    "subregion": "Europa Ocidental"
+  },
+  "AUT": {
+    "region": "Europe",
+    "subregion": "Europa Ocidental"
+  },
+  "BEL": {
+    "region": "Europe",
+    "subregion": "Europa Ocidental"
+  },
+  "FRA": {
+    "region": "Europe",
+    "subregion": "Europa Ocidental"
+  },
+  "LIE": {
+    "region": "Europe",
+    "subregion": "Europa Ocidental"
+  },
+  "LUX": {
+    "region": "Europe",
+    "subregion": "Europa Ocidental"
+  },
+  "MCO": {
+    "region": "Europe",
+    "subregion": "Europa Ocidental"
+  },
+  "NLD": {
+    "region": "Europe",
+    "subregion": "Europa Ocidental"
+  },
+  "CHE": {
+    "region": "Europe",
+    "subregion": "Europa Ocidental"
+  },
+  "AND": {
+    "region": "Europe",
+    "subregion": "Europa Meridional / Mediterrânea"
+  },
+  "ESP": {
+    "region": "Europe",
+    "subregion": "Europa Meridional / Mediterrânea"
+  },
+  "ITA": {
+    "region": "Europe",
+    "subregion": "Europa Meridional / Mediterrânea"
+  },
+  "MLT": {
+    "region": "Europe",
+    "subregion": "Europa Meridional / Mediterrânea"
+  },
+  "PRT": {
+    "region": "Europe",
+    "subregion": "Europa Meridional / Mediterrânea"
+  },
+  "SMR": {
+    "region": "Europe",
+    "subregion": "Europa Meridional / Mediterrânea"
+  },
+  "VAT": {
+    "region": "Europe",
+    "subregion": "Europa Meridional / Mediterrânea"
+  },
+  "ALB": {
+    "region": "Europe",
+    "subregion": "Bálcãs / Sudeste Europeu"
+  },
+  "BIH": {
+    "region": "Europe",
+    "subregion": "Bálcãs / Sudeste Europeu"
+  },
+  "BGR": {
+    "region": "Europe",
+    "subregion": "Bálcãs / Sudeste Europeu"
+  },
+  "HRV": {
+    "region": "Europe",
+    "subregion": "Bálcãs / Sudeste Europeu"
+  },
+  "GRC": {
+    "region": "Europe",
+    "subregion": "Bálcãs / Sudeste Europeu"
+  },
+  "MNE": {
+    "region": "Europe",
+    "subregion": "Bálcãs / Sudeste Europeu"
+  },
+  "MKD": {
+    "region": "Europe",
+    "subregion": "Bálcãs / Sudeste Europeu"
+  },
+  "ROU": {
+    "region": "Europe",
+    "subregion": "Bálcãs / Sudeste Europeu"
+  },
+  "SRB": {
+    "region": "Europe",
+    "subregion": "Bálcãs / Sudeste Europeu"
+  },
+  "SVN": {
+    "region": "Europe",
+    "subregion": "Bálcãs / Sudeste Europeu"
+  },
+  "CZE": {
+    "region": "Europe",
+    "subregion": "Europa Central e Centro-Oriental"
+  },
+  "SVK": {
+    "region": "Europe",
+    "subregion": "Europa Central e Centro-Oriental"
+  },
+  "HUN": {
+    "region": "Europe",
+    "subregion": "Europa Central e Centro-Oriental"
+  },
+  "POL": {
+    "region": "Europe",
+    "subregion": "Europa Central e Centro-Oriental"
+  },
+  "EST": {
+    "region": "Europe",
+    "subregion": "Países Bálticos"
+  },
+  "LVA": {
+    "region": "Europe",
+    "subregion": "Países Bálticos"
+  },
+  "LTU": {
+    "region": "Europe",
+    "subregion": "Países Bálticos"
+  },
+  "BLR": {
+    "region": "Europe",
+    "subregion": "Europa Oriental"
+  },
+  "MDA": {
+    "region": "Europe",
+    "subregion": "Europa Oriental"
+  },
+  "RUS": {
+    "region": "Europe",
+    "subregion": "Europa Oriental"
+  },
+  "UKR": {
+    "region": "Europe",
+    "subregion": "Europa Oriental"
+  },
+  "CHN": {
+    "region": "Asia",
+    "subregion": "Ásia Oriental / Leste Asiático"
+  },
+  "PRK": {
+    "region": "Asia",
+    "subregion": "Ásia Oriental / Leste Asiático"
+  },
+  "KOR": {
+    "region": "Asia",
+    "subregion": "Ásia Oriental / Leste Asiático"
+  },
+  "JPN": {
+    "region": "Asia",
+    "subregion": "Ásia Oriental / Leste Asiático"
+  },
+  "MNG": {
+    "region": "Asia",
+    "subregion": "Ásia Oriental / Leste Asiático"
+  },
+  "BRN": {
+    "region": "Asia",
+    "subregion": "Sudeste Asiático"
+  },
+  "KHM": {
+    "region": "Asia",
+    "subregion": "Sudeste Asiático"
+  },
+  "PHL": {
+    "region": "Asia",
+    "subregion": "Sudeste Asiático"
+  },
+  "IDN": {
+    "region": "Asia",
+    "subregion": "Sudeste Asiático"
+  },
+  "LAO": {
+    "region": "Asia",
+    "subregion": "Sudeste Asiático"
+  },
+  "MYS": {
+    "region": "Asia",
+    "subregion": "Sudeste Asiático"
+  },
+  "MMR": {
+    "region": "Asia",
+    "subregion": "Sudeste Asiático"
+  },
+  "SGP": {
+    "region": "Asia",
+    "subregion": "Sudeste Asiático"
+  },
+  "THA": {
+    "region": "Asia",
+    "subregion": "Sudeste Asiático"
+  },
+  "TLS": {
+    "region": "Asia",
+    "subregion": "Sudeste Asiático"
+  },
+  "VNM": {
+    "region": "Asia",
+    "subregion": "Sudeste Asiático"
+  },
+  "AFG": {
+    "region": "Asia",
+    "subregion": "Ásia Meridional / Sul da Ásia"
+  },
+  "BGD": {
+    "region": "Asia",
+    "subregion": "Ásia Meridional / Sul da Ásia"
+  },
+  "BTN": {
+    "region": "Asia",
+    "subregion": "Ásia Meridional / Sul da Ásia"
+  },
+  "IND": {
+    "region": "Asia",
+    "subregion": "Ásia Meridional / Sul da Ásia"
+  },
+  "MDV": {
+    "region": "Asia",
+    "subregion": "Ásia Meridional / Sul da Ásia"
+  },
+  "NPL": {
+    "region": "Asia",
+    "subregion": "Ásia Meridional / Sul da Ásia"
+  },
+  "PAK": {
+    "region": "Asia",
+    "subregion": "Ásia Meridional / Sul da Ásia"
+  },
+  "LKA": {
+    "region": "Asia",
+    "subregion": "Ásia Meridional / Sul da Ásia"
+  },
+  "KAZ": {
+    "region": "Asia",
+    "subregion": "Ásia Central"
+  },
+  "KGZ": {
+    "region": "Asia",
+    "subregion": "Ásia Central"
+  },
+  "TJK": {
+    "region": "Asia",
+    "subregion": "Ásia Central"
+  },
+  "TKM": {
+    "region": "Asia",
+    "subregion": "Ásia Central"
+  },
+  "UZB": {
+    "region": "Asia",
+    "subregion": "Ásia Central"
+  },
+  "SAU": {
+    "region": "Asia",
+    "subregion": "Oriente Médio / Ásia Ocidental"
+  },
+  "BHR": {
+    "region": "Asia",
+    "subregion": "Oriente Médio / Ásia Ocidental"
+  },
+  "QAT": {
+    "region": "Asia",
+    "subregion": "Oriente Médio / Ásia Ocidental"
+  },
+  "CYP": {
+    "region": "Asia",
+    "subregion": "Oriente Médio / Ásia Ocidental"
+  },
+  "ARE": {
+    "region": "Asia",
+    "subregion": "Oriente Médio / Ásia Ocidental"
+  },
+  "YEM": {
+    "region": "Asia",
+    "subregion": "Oriente Médio / Ásia Ocidental"
+  },
+  "IRN": {
+    "region": "Asia",
+    "subregion": "Oriente Médio / Ásia Ocidental"
+  },
+  "IRQ": {
+    "region": "Asia",
+    "subregion": "Oriente Médio / Ásia Ocidental"
+  },
+  "ISR": {
+    "region": "Asia",
+    "subregion": "Oriente Médio / Ásia Ocidental"
+  },
+  "JOR": {
+    "region": "Asia",
+    "subregion": "Oriente Médio / Ásia Ocidental"
+  },
+  "KWT": {
+    "region": "Asia",
+    "subregion": "Oriente Médio / Ásia Ocidental"
+  },
+  "LBN": {
+    "region": "Asia",
+    "subregion": "Oriente Médio / Ásia Ocidental"
+  },
+  "OMN": {
+    "region": "Asia",
+    "subregion": "Oriente Médio / Ásia Ocidental"
+  },
+  "PSE": {
+    "region": "Asia",
+    "subregion": "Oriente Médio / Ásia Ocidental"
+  },
+  "SYR": {
+    "region": "Asia",
+    "subregion": "Oriente Médio / Ásia Ocidental"
+  },
+  "TUR": {
+    "region": "Asia",
+    "subregion": "Oriente Médio / Ásia Ocidental"
+  },
+  "ARM": {
+    "region": "Asia",
+    "subregion": "Cáucaso"
+  },
+  "AZE": {
+    "region": "Asia",
+    "subregion": "Cáucaso"
+  },
+  "GEO": {
+    "region": "Asia",
+    "subregion": "Cáucaso"
+  },
+  "DZA": {
+    "region": "Africa",
+    "subregion": "África do Norte"
+  },
+  "EGY": {
+    "region": "Africa",
+    "subregion": "África do Norte"
+  },
+  "LBY": {
+    "region": "Africa",
+    "subregion": "África do Norte"
+  },
+  "MAR": {
+    "region": "Africa",
+    "subregion": "África do Norte"
+  },
+  "SDN": {
+    "region": "Africa",
+    "subregion": "África do Norte"
+  },
+  "TUN": {
+    "region": "Africa",
+    "subregion": "África do Norte"
+  },
+  "BEN": {
+    "region": "Africa",
+    "subregion": "África Ocidental"
+  },
+  "BFA": {
+    "region": "Africa",
+    "subregion": "África Ocidental"
+  },
+  "CPV": {
+    "region": "Africa",
+    "subregion": "África Ocidental"
+  },
+  "CIV": {
+    "region": "Africa",
+    "subregion": "África Ocidental"
+  },
+  "GMB": {
+    "region": "Africa",
+    "subregion": "África Ocidental"
+  },
+  "GHA": {
+    "region": "Africa",
+    "subregion": "África Ocidental"
+  },
+  "GIN": {
+    "region": "Africa",
+    "subregion": "África Ocidental"
+  },
+  "GNB": {
+    "region": "Africa",
+    "subregion": "África Ocidental"
+  },
+  "LBR": {
+    "region": "Africa",
+    "subregion": "África Ocidental"
+  },
+  "MLI": {
+    "region": "Africa",
+    "subregion": "África Ocidental"
+  },
+  "MRT": {
+    "region": "Africa",
+    "subregion": "África Ocidental"
+  },
+  "NER": {
+    "region": "Africa",
+    "subregion": "África Ocidental"
+  },
+  "NGA": {
+    "region": "Africa",
+    "subregion": "África Ocidental"
+  },
+  "SEN": {
+    "region": "Africa",
+    "subregion": "África Ocidental"
+  },
+  "SLE": {
+    "region": "Africa",
+    "subregion": "África Ocidental"
+  },
+  "TGO": {
+    "region": "Africa",
+    "subregion": "África Ocidental"
+  },
+  "AGO": {
+    "region": "Africa",
+    "subregion": "África Central"
+  },
+  "CMR": {
+    "region": "Africa",
+    "subregion": "África Central"
+  },
+  "TCD": {
+    "region": "Africa",
+    "subregion": "África Central"
+  },
+  "COG": {
+    "region": "Africa",
+    "subregion": "África Central"
+  },
+  "GAB": {
+    "region": "Africa",
+    "subregion": "África Central"
+  },
+  "GNQ": {
+    "region": "Africa",
+    "subregion": "África Central"
+  },
+  "CAF": {
+    "region": "Africa",
+    "subregion": "África Central"
+  },
+  "COD": {
+    "region": "Africa",
+    "subregion": "África Central"
+  },
+  "STP": {
+    "region": "Africa",
+    "subregion": "África Central"
+  },
+  "BDI": {
+    "region": "Africa",
+    "subregion": "África Oriental"
+  },
+  "COM": {
+    "region": "Africa",
+    "subregion": "África Oriental"
+  },
+  "DJI": {
+    "region": "Africa",
+    "subregion": "África Oriental"
+  },
+  "ERI": {
+    "region": "Africa",
+    "subregion": "África Oriental"
+  },
+  "ETH": {
+    "region": "Africa",
+    "subregion": "África Oriental"
+  },
+  "KEN": {
+    "region": "Africa",
+    "subregion": "África Oriental"
+  },
+  "RWA": {
+    "region": "Africa",
+    "subregion": "África Oriental"
+  },
+  "SYC": {
+    "region": "Africa",
+    "subregion": "África Oriental"
+  },
+  "SOM": {
+    "region": "Africa",
+    "subregion": "África Oriental"
+  },
+  "SSD": {
+    "region": "Africa",
+    "subregion": "África Oriental"
+  },
+  "TZA": {
+    "region": "Africa",
+    "subregion": "África Oriental"
+  },
+  "UGA": {
+    "region": "Africa",
+    "subregion": "África Oriental"
+  },
+  "ZAF": {
+    "region": "Africa",
+    "subregion": "África Austral / Meridional"
+  },
+  "BWA": {
+    "region": "Africa",
+    "subregion": "África Austral / Meridional"
+  },
+  "SWZ": {
+    "region": "Africa",
+    "subregion": "África Austral / Meridional"
+  },
+  "LSO": {
+    "region": "Africa",
+    "subregion": "África Austral / Meridional"
+  },
+  "MDG": {
+    "region": "Africa",
+    "subregion": "África Austral / Meridional"
+  },
+  "MWI": {
+    "region": "Africa",
+    "subregion": "África Austral / Meridional"
+  },
+  "MUS": {
+    "region": "Africa",
+    "subregion": "África Austral / Meridional"
+  },
+  "MOZ": {
+    "region": "Africa",
+    "subregion": "África Austral / Meridional"
+  },
+  "NAM": {
+    "region": "Africa",
+    "subregion": "África Austral / Meridional"
+  },
+  "ZMB": {
+    "region": "Africa",
+    "subregion": "África Austral / Meridional"
+  },
+  "ZWE": {
+    "region": "Africa",
+    "subregion": "África Austral / Meridional"
+  },
+  "AUS": {
+    "region": "Oceania",
+    "subregion": "Australásia"
+  },
+  "NZL": {
+    "region": "Oceania",
+    "subregion": "Australásia"
+  },
+  "FJI": {
+    "region": "Oceania",
+    "subregion": "Melanésia"
+  },
+  "SLB": {
+    "region": "Oceania",
+    "subregion": "Melanésia"
+  },
+  "PNG": {
+    "region": "Oceania",
+    "subregion": "Melanésia"
+  },
+  "VUT": {
+    "region": "Oceania",
+    "subregion": "Melanésia"
+  },
+  "FSM": {
+    "region": "Oceania",
+    "subregion": "Micronésia"
+  },
+  "MHL": {
+    "region": "Oceania",
+    "subregion": "Micronésia"
+  },
+  "KIR": {
+    "region": "Oceania",
+    "subregion": "Micronésia"
+  },
+  "NRU": {
+    "region": "Oceania",
+    "subregion": "Micronésia"
+  },
+  "PLW": {
+    "region": "Oceania",
+    "subregion": "Micronésia"
+  },
+  "WSM": {
+    "region": "Oceania",
+    "subregion": "Polinésia"
+  },
+  "TON": {
+    "region": "Oceania",
+    "subregion": "Polinésia"
+  },
+  "TUV": {
+    "region": "Oceania",
+    "subregion": "Polinésia"
+  }
+}

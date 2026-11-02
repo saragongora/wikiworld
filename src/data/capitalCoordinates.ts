@@ -1,0 +1,1 @@
+export const capitalCoordinates: Record<string,[number,number]> = {"BRA": [-47.8825, -15.7942], "JPN": [139.6917, 35.6895], "FRA": [2.3522, 48.8566], "USA": [-77.0369, 38.9072], "EGY": [31.2357, 30.0444]};

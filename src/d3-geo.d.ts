@@ -1,0 +1,2 @@
+declare module 'd3-geo' { export function geoMercator(): {fitExtent(extent:number[][],object:any):any; (point:number[]):number[]|null}; export function geoPath(projection:any): (object:any)=>string|null; }
+declare module 'geojson' { export type Geometry=any; export type Feature<G=any,P=any>={type:'Feature';geometry:G;properties:P}; export type FeatureCollection<G=any,P=any>={type:'FeatureCollection';features:Feature<G,P>[]}; }

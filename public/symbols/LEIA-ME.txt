@@ -1,0 +1,4 @@
+Adicione bandeiras e brasões SVG nesta pasta.
+Padrão: <codigo-iso3>-flag.svg e <codigo-iso3>-coat.svg.
+Exemplos: bra-flag.svg, bra-coat.svg, jpn-flag.svg, jpn-coat.svg.
+As imagens serão exibidas no card Bandeira e brasão e ampliadas ao clicar.
