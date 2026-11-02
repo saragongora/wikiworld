@@ -1,19 +1,21 @@
-# WikiWorld — Dark Explorer (dados locais)
+# WikiWorld 1.3 — Dark Explorer
 
-## Executar no Windows
+Versão incremental baseada no WikiWorld 1.2 com dados geográficos locais.
 
+## Novidades
+- Página própria `/paises` com catálogo completo, busca tolerante a acentos, filtros de continente/sub-região, ordenação e filtro de progresso.
+- Barra de nível, XP e cinco conquistas no início da jornada, na página inicial.
+- Páginas dos países com progresso regional, nível e atalhos de navegação.
+- Conteúdos e desafios educativos existentes preservados.
+- Dados de países e geometria do mapa mantidos localmente; sem REST Countries.
+
+## Instalação
 ```powershell
 npm.cmd install
 npm.cmd run dev
 ```
 
-## Como funciona
-- `src/data/countries.json`: catálogo local com 200 entradas (inclui alguns territórios ou entidades de classificação variável).
-- `public/maps/world.geojson`: mapa simplificado local, com 172 geometrias disponíveis. Países muito pequenos não aparecem individualmente no mapa; continuam acessíveis pelo catálogo.
-- Não há chamadas à API REST Countries nem a CDN para carregar países e mapa.
-- Bandeiras são emojis do sistema operacional.
-- Capital, área, idiomas, moedas e fronteiras não foram preenchidos quando não havia dados locais confiáveis. A população é uma estimativa histórica da base geográfica, não um dado atual.
-- Progresso salvo em localStorage.
+Acesse `http://localhost:5173`. Para verificar o build: `npm.cmd run build`.
 
-## Próximos passos
-Enriquecer os 195 países definidos pelo escopo editorial com dados revisados, atualizar população/área, e substituir o mapa simplificado por geometria detalhada para microestados.
+## Dados e limitações
+A base herdada possui 200 registros e 172 geometrias; não representa um atlas revisado de 195 Estados. Algumas informações estão incompletas ou desatualizadas. As fontes do Google Fonts ainda dependem de internet, mas os dados geográficos não. O progresso continua salvo no `localStorage` do mesmo domínio, nas chaves `wikiworld-visited` e `wikiworld-sections`. Não substitua essas chaves sem migrar os dados.
