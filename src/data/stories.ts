@@ -1,4 +1,4 @@
-export type StorySection={id:string;title:string;emoji:string;body:string;question:string;options:string[];answer:number;explanation:string};
+export type StorySection={id:string;title:string;emoji:string;body:string;question?:string;options?:string[];answer?:number;explanation?:string};
 export type Story={subtitle:string;sections:StorySection[]};
 export const stories:Record<string,Story>={
 BRA:{subtitle:'Florestas, biomas e uma diversidade cultural extraordinária.',sections:[
@@ -27,3 +27,14 @@ EGY:{subtitle:'O Nilo, desertos e um dos legados históricos mais conhecidos do 
 {id:'cult',title:'Cultura e tradições',emoji:'🏺',body:'A cultura egípcia contemporânea combina tradições locais e influências árabes e mediterrâneas. O árabe é o idioma oficial.',question:'Qual é o idioma oficial do Egito?',options:['Grego','Árabe','Latim'],answer:1,explanation:'O árabe é o idioma oficial do Egito.'},
 {id:'cur',title:'Curiosidades',emoji:'✨',body:'O Canal de Suez liga o mar Mediterrâneo ao mar Vermelho e é uma importante rota marítima mundial.',question:'Quais mares são ligados pelo Canal de Suez?',options:['Mediterrâneo e Vermelho','Negro e Cáspio','Báltico e do Norte'],answer:0,explanation:'O Canal de Suez conecta o Mediterrâneo ao mar Vermelho.'}]}
 };
+
+
+// Conteúdo manual: um JSON por país. Arquivos vazios não substituem capítulos existentes.
+// A importação é resolvida pelo Vite durante o build e funciona sem internet.
+const manualFiles = import.meta.glob('./lessons/*.json', { eager: true, import: 'default' }) as Record<string, Story>;
+for (const [path, lesson] of Object.entries(manualFiles)) {
+  const code = path.split('/').pop()?.replace(/\.json$/i, '').toUpperCase();
+  if (!code || !lesson || !Array.isArray(lesson.sections) || lesson.sections.length === 0) continue;
+  const sections = lesson.sections.filter(s => s && typeof s.id === 'string' && typeof s.title === 'string' && typeof s.body === 'string' && s.body.trim());
+  if (sections.length) stories[code] = { subtitle: lesson.subtitle || '', sections };
+}

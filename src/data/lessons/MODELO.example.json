@@ -1,0 +1,29 @@
+{
+  "subtitle": "Paisagens, tradições e história do país.",
+  "sections": [
+    {
+      "id": "geo",
+      "title": "Geografia e natureza",
+      "emoji": "🌎",
+      "body": "Escreva aqui o texto de geografia. Você pode incluir vários parágrafos separados por \\n\\n."
+    },
+    {
+      "id": "hist",
+      "title": "História",
+      "emoji": "📜",
+      "body": "Escreva aqui o texto de história."
+    },
+    {
+      "id": "cult",
+      "title": "Cultura e tradições",
+      "emoji": "🎭",
+      "body": "Escreva aqui o texto sobre cultura."
+    },
+    {
+      "id": "cur",
+      "title": "Curiosidades",
+      "emoji": "✨",
+      "body": "Escreva aqui as curiosidades."
+    }
+  ]
+}
